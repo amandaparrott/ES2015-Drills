@@ -1,7 +1,7 @@
 
 const name = "Amanda Parrott";
 const words = name.split(" ");
-console.log(words[0]);
+// console.log(words[0]);
 
 
 
